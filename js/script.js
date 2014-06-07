@@ -59,7 +59,6 @@ function getResourcesCallback (code, data) {
 						"</div>";
 				}
 			}
-			debugger;
 			$("#result").html(html);
 		}
 	}

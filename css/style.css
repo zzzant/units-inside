@@ -1,0 +1,29 @@
+body, html, div, pre, button {
+	padding: 0px;
+	margin: 0px;
+	border: 0;
+	vertical-align: baseline;
+}
+
+#main {
+	text-align: center;
+	margin: 40px 0;
+}
+
+#result .row {
+	width: 620px;
+	margin:0 auto;
+	border: 1px solid #777;
+}
+
+#result .name, #result .units {
+	display: inline-block;
+}
+
+#result .name {
+	width: 150px;
+}
+
+#result .units {
+	width: 450px;
+}
